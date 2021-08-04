@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtRf0od6v4dEjyyi6rROPNtTjxoyTSbKiZeDR3bvY9Bbw9cayjIvt3N85auH3Sv3efVQD461LO3RJk6FtO2HRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Crina\\Desktop\\FWF\\ReFrameWork-modern_studio\\.local\\",
+  "expectedPackageFiles": [
+    "C:\\Users\\Crina\\.nuget\\packages\\avalonedit\\5.0.3\\avalonedit.5.0.3.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\credentialmanagement\\1.0.2\\credentialmanagement.1.0.2.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\csvhelper\\2.13.5\\csvhelper.2.13.5.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\extended.wpf.toolkit.2.8.0.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\humanizer.core\\2.4.2\\humanizer.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\microsoft.visualstudio.ole.interop.7.10.6071.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\npoi\\2.4.1\\npoi.2.4.1.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\sharpziplib\\1.0.0\\sharpziplib.1.0.0.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath\\19.10.7243.31457\\uipath.19.10.7243.31457.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath.credentials.activities\\1.1.6479.13204\\uipath.credentials.activities.1.1.6479.13204.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath.excel.activities\\2.7.2\\uipath.excel.activities.2.7.2.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath.ocr.contracts\\2.2.1\\uipath.ocr.contracts.2.2.1.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath.system.activities\\19.10.1\\uipath.system.activities.19.10.1.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath.uiautomation.activities\\19.10.1\\uipath.uiautomation.activities.19.10.1.nupkg.sha512",
+    "C:\\Users\\Crina\\.nuget\\packages\\uipath.vision\\1.8.1\\uipath.vision.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
